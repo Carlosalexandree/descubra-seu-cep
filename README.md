@@ -20,3 +20,4 @@ Este é um projeto simples de React que permite aos usuários descobrir o CEP de
 - Node.js
 - npm ou yarn
 
+![Imagem 25-07-2024 às 19 43](https://github.com/user-attachments/assets/3008a2c0-c6aa-4c5d-8d60-69390a015447)
